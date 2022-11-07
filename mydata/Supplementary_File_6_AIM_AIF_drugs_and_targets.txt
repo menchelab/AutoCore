@@ -1,0 +1,77 @@
+ Supplementary File 6: Drugs used for monogenic AIM AIF diseases and their molecular targets									
+#									
+#									
+#									
+#Drug	Targets [1:]								
+rituximab	931								
+icatibant	624	290							
+salbutamol	154	153	155						
+cyclosporine	819	5535	5478	10105					
+anti-CD20 mAbs	931								
+berinert	715	716	3818	2161	2160	2147	5327		
+cinryze	715	716	3818	2161	2160	2147	5327		
+conestat alfa	715	716	3818	2161	2160	2147	5327		
+eculizumab	727								
+fluconazole	6529								
+cotrimoxazole	1719								
+prophylaxis against P. jiroveci	1719								
+methotrexate	1719	7298	471						
+etoposide	7153	7155							
+cyclophosphamide	8856								
+hydroxychloroquine	51284	54106	59272						
+betamethasone	2908								
+corticosteroids	2908								
+glucocorticoids	2908								
+prednisone	2908								
+methylprednisolone	2908	301							
+prednisolone	2908								
+dexamethasone	2908	190	301	4843	8856				
+chloroquine	2939	7124	54106	373156	3146	2944	59272		
+G-CSF	1441	1991							
+6-mercaptopurine	3251	5471	3614	3615					
+lanadelumab	3818								
+IL1b inhibitors	3553								
+mycophenolate	3614	3615							
+mycophenolate mofetil	3614	3615	5805						
+vedolizumab	3676	3695							
+canakinumab	3553								
+rilonacept	3553	3552	3557						
+anakinra	3554								
+ustekinumab	3593	51561							
+secukinumab	3605								
+tadekinig alfa	3606								
+tocilizumab	3570								
+jakinib	3716	3717	3718	7297					
+amantadine sulfate	116443	1139	1813	1137	1136				
+leniolisib	5293								
+otilonium bromide	1128	1129	1131	1132	775				
+tacrolimus	2280								
+ecallantide	3818								
+mesalamine 	5743	5742	240	5468	1147	3551	4353		
+mesalazine	5743	5742	240	5468	1147	3551	4353		
+thalidomide	51185	7124	4790	2263	5743	5004			
+azathioprine	5879								
+acitretin	6256	5914	5915	5916	6257	6258	5947		
+rapamycin	2475	2280	2247						
+sirolimus	2475	2280	2247						
+tiagabine	6529								
+abatacept	941	942							
+eltrombopag	4352								
+romiplostim	4352								
+anti_thymocyte globulin	7038								
+certolizumab	7124								
+colchicine	203068								
+adalimumab	7124								
+golimumab	7124								
+infliximab	7124								
+belimumab	23495								
+etanercept	23495	2209	2212	2213	9103	2214	2215	4049	712
+tofacitinib	3716	3717	3718	7297					
+ruxolitinib	3716	3717							
+baricitinib	3716	3717	3718	7297					
+desmopressin	554	553	552						
+desmopressin acetate	554	553	552						
+pregabalin	781								
+jakinibs	3716	3717	3718	7297					
+steroids	2908								
+IL1B inhibitors	3553								
